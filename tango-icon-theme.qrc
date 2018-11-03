@@ -1,0 +1,1123 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>16x16/actions/application-exit.png</file>
+        <file>16x16/actions/address-book-new.png</file>
+        <file>16x16/actions/appointment-new.png</file>
+        <file>16x16/actions/bookmark-new.png</file>
+        <file>16x16/actions/contact-new.png</file>
+        <file>16x16/actions/document-new.png</file>
+        <file>16x16/actions/document-open.png</file>
+        <file>16x16/actions/document-print-preview.png</file>
+        <file>16x16/actions/document-print.png</file>
+        <file>16x16/actions/document-properties.png</file>
+        <file>16x16/actions/document-save-as.png</file>
+        <file>16x16/actions/document-save.png</file>
+        <file>16x16/actions/edit-clear.png</file>
+        <file>16x16/actions/edit-copy.png</file>
+        <file>16x16/actions/edit-cut.png</file>
+        <file>16x16/actions/edit-delete.png</file>
+        <file>16x16/actions/edit-find-replace.png</file>
+        <file>16x16/actions/edit-find.png</file>
+        <file>16x16/actions/edit-paste.png</file>
+        <file>16x16/actions/edit-redo.png</file>
+        <file>16x16/actions/edit-select-all.png</file>
+        <file>16x16/actions/edit-undo.png</file>
+        <file>16x16/actions/folder-new.png</file>
+        <file>16x16/actions/format-indent-less.png</file>
+        <file>16x16/actions/format-indent-more.png</file>
+        <file>16x16/actions/format-justify-center.png</file>
+        <file>16x16/actions/format-justify-fill.png</file>
+        <file>16x16/actions/format-justify-left.png</file>
+        <file>16x16/actions/format-justify-right.png</file>
+        <file>16x16/actions/format-text-bold.png</file>
+        <file>16x16/actions/format-text-italic.png</file>
+        <file>16x16/actions/format-text-strikethrough.png</file>
+        <file>16x16/actions/format-text-underline.png</file>
+        <file>16x16/actions/go-bottom.png</file>
+        <file>16x16/actions/go-down.png</file>
+        <file>16x16/actions/go-first.png</file>
+        <file>16x16/actions/go-home.png</file>
+        <file>16x16/actions/go-jump.png</file>
+        <file>16x16/actions/go-last.png</file>
+        <file>16x16/actions/go-next.png</file>
+        <file>16x16/actions/go-previous.png</file>
+        <file>16x16/actions/go-top.png</file>
+        <file>16x16/actions/go-up.png</file>
+        <file>16x16/actions/list-add.png</file>
+        <file>16x16/actions/list-remove.png</file>
+        <file>16x16/actions/mail-forward.png</file>
+        <file>16x16/actions/mail-mark-junk.png</file>
+        <file>16x16/actions/mail-mark-not-junk.png</file>
+        <file>16x16/actions/mail-message-new.png</file>
+        <file>16x16/actions/mail-reply-all.png</file>
+        <file>16x16/actions/mail-reply-sender.png</file>
+        <file>16x16/actions/mail-send-receive.png</file>
+        <file>16x16/actions/media-eject.png</file>
+        <file>16x16/actions/media-playback-pause.png</file>
+        <file>16x16/actions/media-playback-start.png</file>
+        <file>16x16/actions/media-playback-stop.png</file>
+        <file>16x16/actions/media-record.png</file>
+        <file>16x16/actions/media-seek-backward.png</file>
+        <file>16x16/actions/media-seek-forward.png</file>
+        <file>16x16/actions/media-skip-backward.png</file>
+        <file>16x16/actions/media-skip-forward.png</file>
+        <file>16x16/actions/process-stop.png</file>
+        <file>16x16/actions/system-lock-screen.png</file>
+        <file>16x16/actions/system-log-out.png</file>
+        <file>16x16/actions/system-search.png</file>
+        <file>16x16/actions/system-shutdown.png</file>
+        <file>16x16/actions/tab-new.png</file>
+        <file>16x16/actions/view-fullscreen.png</file>
+        <file>16x16/actions/view-refresh.png</file>
+        <file>16x16/actions/window-new.png</file>
+        <file>16x16/animations/process-working.png</file>
+        <file>16x16/apps/accessories-calculator.png</file>
+        <file>16x16/apps/accessories-character-map.png</file>
+        <file>16x16/apps/accessories-text-editor.png</file>
+        <file>16x16/apps/help-browser.png</file>
+        <file>16x16/apps/internet-group-chat.png</file>
+        <file>16x16/apps/internet-mail.png</file>
+        <file>16x16/apps/internet-news-reader.png</file>
+        <file>16x16/apps/internet-web-browser.png</file>
+        <file>16x16/apps/office-calendar.png</file>
+        <file>16x16/apps/preferences-desktop-accessibility.png</file>
+        <file>16x16/apps/preferences-desktop-assistive-technology.png</file>
+        <file>16x16/apps/preferences-desktop-font.png</file>
+        <file>16x16/apps/preferences-desktop-keyboard-shortcuts.png</file>
+        <file>16x16/apps/preferences-desktop-locale.png</file>
+        <file>16x16/apps/preferences-desktop-multimedia.png</file>
+        <file>16x16/apps/preferences-desktop-remote-desktop.png</file>
+        <file>16x16/apps/preferences-desktop-screensaver.png</file>
+        <file>16x16/apps/preferences-desktop-theme.png</file>
+        <file>16x16/apps/preferences-desktop-wallpaper.png</file>
+        <file>16x16/apps/preferences-system-network-proxy.png</file>
+        <file>16x16/apps/preferences-system-session.png</file>
+        <file>16x16/apps/preferences-system-windows.png</file>
+        <file>16x16/apps/system-file-manager.png</file>
+        <file>16x16/apps/system-installer.png</file>
+        <file>16x16/apps/system-software-update.png</file>
+        <file>16x16/apps/system-users.png</file>
+        <file>16x16/apps/utilities-system-monitor.png</file>
+        <file>16x16/apps/utilities-terminal.png</file>
+        <file>16x16/categories/applications-accessories.png</file>
+        <file>16x16/categories/applications-development.png</file>
+        <file>16x16/categories/applications-games.png</file>
+        <file>16x16/categories/applications-graphics.png</file>
+        <file>16x16/categories/applications-internet.png</file>
+        <file>16x16/categories/applications-multimedia.png</file>
+        <file>16x16/categories/applications-office.png</file>
+        <file>16x16/categories/applications-other.png</file>
+        <file>16x16/categories/applications-system.png</file>
+        <file>16x16/categories/preferences-desktop-peripherals.png</file>
+        <file>16x16/categories/preferences-desktop.png</file>
+        <file>16x16/categories/preferences-system.png</file>
+        <file>16x16/devices/audio-card.png</file>
+        <file>16x16/devices/audio-input-microphone.png</file>
+        <file>16x16/devices/battery.png</file>
+        <file>16x16/devices/camera-photo.png</file>
+        <file>16x16/devices/camera-video.png</file>
+        <file>16x16/devices/computer.png</file>
+        <file>16x16/devices/drive-harddisk.png</file>
+        <file>16x16/devices/drive-optical.png</file>
+        <file>16x16/devices/drive-removable-media.png</file>
+        <file>16x16/devices/input-gaming.png</file>
+        <file>16x16/devices/input-keyboard.png</file>
+        <file>16x16/devices/input-mouse.png</file>
+        <file>16x16/devices/media-flash.png</file>
+        <file>16x16/devices/media-floppy.png</file>
+        <file>16x16/devices/media-optical.png</file>
+        <file>16x16/devices/multimedia-player.png</file>
+        <file>16x16/devices/network-wired.png</file>
+        <file>16x16/devices/network-wireless.png</file>
+        <file>16x16/devices/printer.png</file>
+        <file>16x16/devices/video-display.png</file>
+        <file>16x16/emblems/emblem-favorite.png</file>
+        <file>16x16/emblems/emblem-important.png</file>
+        <file>16x16/emblems/emblem-photos.png</file>
+        <file>16x16/emblems/emblem-readonly.png</file>
+        <file>16x16/emblems/emblem-symbolic-link.png</file>
+        <file>16x16/emblems/emblem-system.png</file>
+        <file>16x16/emblems/emblem-unreadable.png</file>
+        <file>16x16/emotes/face-angel.png</file>
+        <file>16x16/emotes/face-crying.png</file>
+        <file>16x16/emotes/face-devilish.png</file>
+        <file>16x16/emotes/face-glasses.png</file>
+        <file>16x16/emotes/face-grin.png</file>
+        <file>16x16/emotes/face-kiss.png</file>
+        <file>16x16/emotes/face-monkey.png</file>
+        <file>16x16/emotes/face-plain.png</file>
+        <file>16x16/emotes/face-sad.png</file>
+        <file>16x16/emotes/face-smile-big.png</file>
+        <file>16x16/emotes/face-smile.png</file>
+        <file>16x16/emotes/face-surprise.png</file>
+        <file>16x16/emotes/face-wink.png</file>
+        <file>16x16/mimetypes/application-certificate.png</file>
+        <file>16x16/mimetypes/application-x-executable.png</file>
+        <file>16x16/mimetypes/audio-x-generic.png</file>
+        <file>16x16/mimetypes/font-x-generic.png</file>
+        <file>16x16/mimetypes/image-x-generic.png</file>
+        <file>16x16/mimetypes/package-x-generic.png</file>
+        <file>16x16/mimetypes/text-html.png</file>
+        <file>16x16/mimetypes/text-x-generic-template.png</file>
+        <file>16x16/mimetypes/text-x-generic.png</file>
+        <file>16x16/mimetypes/text-x-script.png</file>
+        <file>16x16/mimetypes/video-x-generic.png</file>
+        <file>16x16/mimetypes/x-office-address-book.png</file>
+        <file>16x16/mimetypes/x-office-calendar.png</file>
+        <file>16x16/mimetypes/x-office-document-template.png</file>
+        <file>16x16/mimetypes/x-office-document.png</file>
+        <file>16x16/mimetypes/x-office-drawing-template.png</file>
+        <file>16x16/mimetypes/x-office-drawing.png</file>
+        <file>16x16/mimetypes/x-office-presentation-template.png</file>
+        <file>16x16/mimetypes/x-office-presentation.png</file>
+        <file>16x16/mimetypes/x-office-spreadsheet-template.png</file>
+        <file>16x16/mimetypes/x-office-spreadsheet.png</file>
+        <file>16x16/places/folder-remote.png</file>
+        <file>16x16/places/folder-saved-search.png</file>
+        <file>16x16/places/folder.png</file>
+        <file>16x16/places/network-server.png</file>
+        <file>16x16/places/network-workgroup.png</file>
+        <file>16x16/places/start-here.png</file>
+        <file>16x16/places/user-desktop.png</file>
+        <file>16x16/places/user-home.png</file>
+        <file>16x16/places/user-trash.png</file>
+        <file>16x16/status/audio-volume-high.png</file>
+        <file>16x16/status/audio-volume-low.png</file>
+        <file>16x16/status/audio-volume-medium.png</file>
+        <file>16x16/status/audio-volume-muted.png</file>
+        <file>16x16/status/battery-caution.png</file>
+        <file>16x16/status/dialog-error.png</file>
+        <file>16x16/status/dialog-information.png</file>
+        <file>16x16/status/dialog-warning.png</file>
+        <file>16x16/status/folder-drag-accept.png</file>
+        <file>16x16/status/folder-open.png</file>
+        <file>16x16/status/folder-visiting.png</file>
+        <file>16x16/status/image-loading.png</file>
+        <file>16x16/status/image-missing.png</file>
+        <file>16x16/status/mail-attachment.png</file>
+        <file>16x16/status/network-error.png</file>
+        <file>16x16/status/network-idle.png</file>
+        <file>16x16/status/network-offline.png</file>
+        <file>16x16/status/network-receive.png</file>
+        <file>16x16/status/network-transmit-receive.png</file>
+        <file>16x16/status/network-transmit.png</file>
+        <file>16x16/status/network-wireless-encrypted.png</file>
+        <file>16x16/status/printer-error.png</file>
+        <file>16x16/status/software-update-available.png</file>
+        <file>16x16/status/software-update-urgent.png</file>
+        <file>16x16/status/user-trash-full.png</file>
+        <file>16x16/status/weather-clear-night.png</file>
+        <file>16x16/status/weather-clear.png</file>
+        <file>16x16/status/weather-few-clouds-night.png</file>
+        <file>16x16/status/weather-few-clouds.png</file>
+        <file>16x16/status/weather-overcast.png</file>
+        <file>16x16/status/weather-severe-alert.png</file>
+        <file>16x16/status/weather-showers-scattered.png</file>
+        <file>16x16/status/weather-showers.png</file>
+        <file>16x16/status/weather-snow.png</file>
+        <file>16x16/status/weather-storm.png</file>
+        <file>22x22/actions/address-book-new.png</file>
+        <file>22x22/actions/appointment-new.png</file>
+        <file>22x22/actions/bookmark-new.png</file>
+        <file>22x22/actions/contact-new.png</file>
+        <file>22x22/actions/document-new.png</file>
+        <file>22x22/actions/document-open.png</file>
+        <file>22x22/actions/document-print-preview.png</file>
+        <file>22x22/actions/document-print.png</file>
+        <file>22x22/actions/document-properties.png</file>
+        <file>22x22/actions/document-save-as.png</file>
+        <file>22x22/actions/document-save.png</file>
+        <file>22x22/actions/edit-clear.png</file>
+        <file>22x22/actions/edit-copy.png</file>
+        <file>22x22/actions/edit-cut.png</file>
+        <file>22x22/actions/edit-delete.png</file>
+        <file>22x22/actions/edit-find-replace.png</file>
+        <file>22x22/actions/edit-find.png</file>
+        <file>22x22/actions/edit-paste.png</file>
+        <file>22x22/actions/edit-redo.png</file>
+        <file>22x22/actions/edit-select-all.png</file>
+        <file>22x22/actions/edit-undo.png</file>
+        <file>22x22/actions/folder-new.png</file>
+        <file>22x22/actions/format-indent-less.png</file>
+        <file>22x22/actions/format-indent-more.png</file>
+        <file>22x22/actions/format-justify-center.png</file>
+        <file>22x22/actions/format-justify-fill.png</file>
+        <file>22x22/actions/format-justify-left.png</file>
+        <file>22x22/actions/format-justify-right.png</file>
+        <file>22x22/actions/format-text-bold.png</file>
+        <file>22x22/actions/format-text-italic.png</file>
+        <file>22x22/actions/format-text-strikethrough.png</file>
+        <file>22x22/actions/format-text-underline.png</file>
+        <file>22x22/actions/go-bottom.png</file>
+        <file>22x22/actions/go-down.png</file>
+        <file>22x22/actions/go-first.png</file>
+        <file>22x22/actions/go-home.png</file>
+        <file>22x22/actions/go-jump.png</file>
+        <file>22x22/actions/go-last.png</file>
+        <file>22x22/actions/go-next.png</file>
+        <file>22x22/actions/go-previous.png</file>
+        <file>22x22/actions/go-top.png</file>
+        <file>22x22/actions/go-up.png</file>
+        <file>22x22/actions/list-add.png</file>
+        <file>22x22/actions/list-remove.png</file>
+        <file>22x22/actions/mail-forward.png</file>
+        <file>22x22/actions/mail-mark-junk.png</file>
+        <file>22x22/actions/mail-mark-not-junk.png</file>
+        <file>22x22/actions/mail-message-new.png</file>
+        <file>22x22/actions/mail-reply-all.png</file>
+        <file>22x22/actions/mail-reply-sender.png</file>
+        <file>22x22/actions/mail-send-receive.png</file>
+        <file>22x22/actions/media-eject.png</file>
+        <file>22x22/actions/media-playback-pause.png</file>
+        <file>22x22/actions/media-playback-start.png</file>
+        <file>22x22/actions/media-playback-stop.png</file>
+        <file>22x22/actions/media-record.png</file>
+        <file>22x22/actions/media-seek-backward.png</file>
+        <file>22x22/actions/media-seek-forward.png</file>
+        <file>22x22/actions/media-skip-backward.png</file>
+        <file>22x22/actions/media-skip-forward.png</file>
+        <file>22x22/actions/process-stop.png</file>
+        <file>22x22/actions/system-lock-screen.png</file>
+        <file>22x22/actions/system-log-out.png</file>
+        <file>22x22/actions/system-search.png</file>
+        <file>22x22/actions/system-shutdown.png</file>
+        <file>22x22/actions/tab-new.png</file>
+        <file>22x22/actions/view-fullscreen.png</file>
+        <file>22x22/actions/view-refresh.png</file>
+        <file>22x22/actions/window-new.png</file>
+        <file>22x22/animations/process-working.png</file>
+        <file>22x22/apps/accessories-calculator.png</file>
+        <file>22x22/apps/accessories-character-map.png</file>
+        <file>22x22/apps/accessories-text-editor.png</file>
+        <file>22x22/apps/help-browser.png</file>
+        <file>22x22/apps/internet-group-chat.png</file>
+        <file>22x22/apps/internet-mail.png</file>
+        <file>22x22/apps/internet-news-reader.png</file>
+        <file>22x22/apps/internet-web-browser.png</file>
+        <file>22x22/apps/Makefile.am</file>
+        <file>22x22/apps/Makefile.in</file>
+        <file>22x22/apps/office-calendar.png</file>
+        <file>22x22/apps/preferences-desktop-accessibility.png</file>
+        <file>22x22/apps/preferences-desktop-assistive-technology.png</file>
+        <file>22x22/apps/preferences-desktop-font.png</file>
+        <file>22x22/apps/preferences-desktop-keyboard-shortcuts.png</file>
+        <file>22x22/apps/preferences-desktop-locale.png</file>
+        <file>22x22/apps/preferences-desktop-multimedia.png</file>
+        <file>22x22/apps/preferences-desktop-remote-desktop.png</file>
+        <file>22x22/apps/preferences-desktop-screensaver.png</file>
+        <file>22x22/apps/preferences-desktop-theme.png</file>
+        <file>22x22/apps/preferences-desktop-wallpaper.png</file>
+        <file>22x22/apps/preferences-system-network-proxy.png</file>
+        <file>22x22/apps/preferences-system-session.png</file>
+        <file>22x22/apps/preferences-system-windows.png</file>
+        <file>22x22/apps/system-file-manager.png</file>
+        <file>22x22/apps/system-installer.png</file>
+        <file>22x22/apps/system-software-update.png</file>
+        <file>22x22/apps/system-users.png</file>
+        <file>22x22/apps/utilities-system-monitor.png</file>
+        <file>22x22/apps/utilities-terminal.png</file>
+        <file>22x22/categories/applications-accessories.png</file>
+        <file>22x22/categories/applications-development.png</file>
+        <file>22x22/categories/applications-games.png</file>
+        <file>22x22/categories/applications-graphics.png</file>
+        <file>22x22/categories/applications-internet.png</file>
+        <file>22x22/categories/applications-multimedia.png</file>
+        <file>22x22/categories/applications-office.png</file>
+        <file>22x22/categories/applications-other.png</file>
+        <file>22x22/categories/applications-system.png</file>
+        <file>22x22/categories/preferences-desktop-peripherals.png</file>
+        <file>22x22/categories/preferences-desktop.png</file>
+        <file>22x22/categories/preferences-system.png</file>
+        <file>22x22/devices/audio-card.png</file>
+        <file>22x22/devices/audio-input-microphone.png</file>
+        <file>22x22/devices/battery.png</file>
+        <file>22x22/devices/camera-photo.png</file>
+        <file>22x22/devices/camera-video.png</file>
+        <file>22x22/devices/computer.png</file>
+        <file>22x22/devices/drive-harddisk.png</file>
+        <file>22x22/devices/drive-optical.png</file>
+        <file>22x22/devices/drive-removable-media.png</file>
+        <file>22x22/devices/input-gaming.png</file>
+        <file>22x22/devices/input-keyboard.png</file>
+        <file>22x22/devices/input-mouse.png</file>
+        <file>22x22/devices/media-flash.png</file>
+        <file>22x22/devices/media-floppy.png</file>
+        <file>22x22/devices/media-optical.png</file>
+        <file>22x22/devices/multimedia-player.png</file>
+        <file>22x22/devices/network-wired.png</file>
+        <file>22x22/devices/network-wireless.png</file>
+        <file>22x22/devices/printer.png</file>
+        <file>22x22/devices/video-display.png</file>
+        <file>22x22/emblems/emblem-favorite.png</file>
+        <file>22x22/emblems/emblem-important.png</file>
+        <file>22x22/emblems/emblem-photos.png</file>
+        <file>22x22/emblems/emblem-readonly.png</file>
+        <file>22x22/emblems/emblem-symbolic-link.png</file>
+        <file>22x22/emblems/emblem-system.png</file>
+        <file>22x22/emblems/emblem-unreadable.png</file>
+        <file>22x22/emotes/face-angel.png</file>
+        <file>22x22/emotes/face-crying.png</file>
+        <file>22x22/emotes/face-devilish.png</file>
+        <file>22x22/emotes/face-glasses.png</file>
+        <file>22x22/emotes/face-grin.png</file>
+        <file>22x22/emotes/face-kiss.png</file>
+        <file>22x22/emotes/face-monkey.png</file>
+        <file>22x22/emotes/face-plain.png</file>
+        <file>22x22/emotes/face-sad.png</file>
+        <file>22x22/emotes/face-smile-big.png</file>
+        <file>22x22/emotes/face-smile.png</file>
+        <file>22x22/emotes/face-surprise.png</file>
+        <file>22x22/emotes/face-wink.png</file>
+        <file>22x22/mimetypes/application-certificate.png</file>
+        <file>22x22/mimetypes/application-x-executable.png</file>
+        <file>22x22/mimetypes/audio-x-generic.png</file>
+        <file>22x22/mimetypes/font-x-generic.png</file>
+        <file>22x22/mimetypes/image-x-generic.png</file>
+        <file>22x22/mimetypes/package-x-generic.png</file>
+        <file>22x22/mimetypes/text-html.png</file>
+        <file>22x22/mimetypes/text-x-generic-template.png</file>
+        <file>22x22/mimetypes/text-x-generic.png</file>
+        <file>22x22/mimetypes/text-x-script.png</file>
+        <file>22x22/mimetypes/video-x-generic.png</file>
+        <file>22x22/mimetypes/x-office-address-book.png</file>
+        <file>22x22/mimetypes/x-office-calendar.png</file>
+        <file>22x22/mimetypes/x-office-document-template.png</file>
+        <file>22x22/mimetypes/x-office-document.png</file>
+        <file>22x22/mimetypes/x-office-drawing-template.png</file>
+        <file>22x22/mimetypes/x-office-drawing.png</file>
+        <file>22x22/mimetypes/x-office-presentation-template.png</file>
+        <file>22x22/mimetypes/x-office-presentation.png</file>
+        <file>22x22/mimetypes/x-office-spreadsheet-template.png</file>
+        <file>22x22/mimetypes/x-office-spreadsheet.png</file>
+        <file>22x22/places/folder-remote.png</file>
+        <file>22x22/places/folder-saved-search.png</file>
+        <file>22x22/places/folder.png</file>
+        <file>22x22/places/network-server.png</file>
+        <file>22x22/places/network-workgroup.png</file>
+        <file>22x22/places/start-here.png</file>
+        <file>22x22/places/user-desktop.png</file>
+        <file>22x22/places/user-home.png</file>
+        <file>22x22/places/user-trash.png</file>
+        <file>22x22/status/audio-volume-high.png</file>
+        <file>22x22/status/audio-volume-low.png</file>
+        <file>22x22/status/audio-volume-medium.png</file>
+        <file>22x22/status/audio-volume-muted.png</file>
+        <file>22x22/status/battery-caution.png</file>
+        <file>22x22/status/dialog-error.png</file>
+        <file>22x22/status/dialog-information.png</file>
+        <file>22x22/status/dialog-warning.png</file>
+        <file>22x22/status/folder-drag-accept.png</file>
+        <file>22x22/status/folder-open.png</file>
+        <file>22x22/status/folder-visiting.png</file>
+        <file>22x22/status/image-loading.png</file>
+        <file>22x22/status/image-missing.png</file>
+        <file>22x22/status/mail-attachment.png</file>
+        <file>22x22/status/network-error.png</file>
+        <file>22x22/status/network-idle.png</file>
+        <file>22x22/status/network-offline.png</file>
+        <file>22x22/status/network-receive.png</file>
+        <file>22x22/status/network-transmit-receive.png</file>
+        <file>22x22/status/network-transmit.png</file>
+        <file>22x22/status/network-wireless-encrypted.png</file>
+        <file>22x22/status/printer-error.png</file>
+        <file>22x22/status/software-update-available.png</file>
+        <file>22x22/status/software-update-urgent.png</file>
+        <file>22x22/status/user-trash-full.png</file>
+        <file>22x22/status/weather-clear-night.png</file>
+        <file>22x22/status/weather-clear.png</file>
+        <file>22x22/status/weather-few-clouds-night.png</file>
+        <file>22x22/status/weather-few-clouds.png</file>
+        <file>22x22/status/weather-overcast.png</file>
+        <file>22x22/status/weather-severe-alert.png</file>
+        <file>22x22/status/weather-showers-scattered.png</file>
+        <file>22x22/status/weather-showers.png</file>
+        <file>22x22/status/weather-snow.png</file>
+        <file>22x22/status/weather-storm.png</file>
+        <file>32x32/actions/address-book-new.png</file>
+        <file>32x32/actions/appointment-new.png</file>
+        <file>32x32/actions/bookmark-new.png</file>
+        <file>32x32/actions/contact-new.png</file>
+        <file>32x32/actions/document-new.png</file>
+        <file>32x32/actions/document-open.png</file>
+        <file>32x32/actions/document-print-preview.png</file>
+        <file>32x32/actions/document-print.png</file>
+        <file>32x32/actions/document-properties.png</file>
+        <file>32x32/actions/document-save-as.png</file>
+        <file>32x32/actions/document-save.png</file>
+        <file>32x32/actions/edit-clear.png</file>
+        <file>32x32/actions/edit-copy.png</file>
+        <file>32x32/actions/edit-cut.png</file>
+        <file>32x32/actions/edit-delete.png</file>
+        <file>32x32/actions/edit-find-replace.png</file>
+        <file>32x32/actions/edit-find.png</file>
+        <file>32x32/actions/edit-paste.png</file>
+        <file>32x32/actions/edit-redo.png</file>
+        <file>32x32/actions/edit-select-all.png</file>
+        <file>32x32/actions/edit-undo.png</file>
+        <file>32x32/actions/folder-new.png</file>
+        <file>32x32/actions/format-indent-less.png</file>
+        <file>32x32/actions/format-indent-more.png</file>
+        <file>32x32/actions/format-justify-center.png</file>
+        <file>32x32/actions/format-justify-fill.png</file>
+        <file>32x32/actions/format-justify-left.png</file>
+        <file>32x32/actions/format-justify-right.png</file>
+        <file>32x32/actions/format-text-bold.png</file>
+        <file>32x32/actions/format-text-italic.png</file>
+        <file>32x32/actions/format-text-strikethrough.png</file>
+        <file>32x32/actions/format-text-underline.png</file>
+        <file>32x32/actions/go-bottom.png</file>
+        <file>32x32/actions/go-down.png</file>
+        <file>32x32/actions/go-first.png</file>
+        <file>32x32/actions/go-home.png</file>
+        <file>32x32/actions/go-jump.png</file>
+        <file>32x32/actions/go-last.png</file>
+        <file>32x32/actions/go-next.png</file>
+        <file>32x32/actions/go-previous.png</file>
+        <file>32x32/actions/go-top.png</file>
+        <file>32x32/actions/go-up.png</file>
+        <file>32x32/actions/list-add.png</file>
+        <file>32x32/actions/list-remove.png</file>
+        <file>32x32/actions/mail-forward.png</file>
+        <file>32x32/actions/mail-mark-junk.png</file>
+        <file>32x32/actions/mail-mark-not-junk.png</file>
+        <file>32x32/actions/mail-message-new.png</file>
+        <file>32x32/actions/mail-reply-all.png</file>
+        <file>32x32/actions/mail-reply-sender.png</file>
+        <file>32x32/actions/mail-send-receive.png</file>
+        <file>32x32/actions/media-eject.png</file>
+        <file>32x32/actions/media-playback-pause.png</file>
+        <file>32x32/actions/media-playback-start.png</file>
+        <file>32x32/actions/media-playback-stop.png</file>
+        <file>32x32/actions/media-record.png</file>
+        <file>32x32/actions/media-seek-backward.png</file>
+        <file>32x32/actions/media-seek-forward.png</file>
+        <file>32x32/actions/media-skip-backward.png</file>
+        <file>32x32/actions/media-skip-forward.png</file>
+        <file>32x32/actions/process-stop.png</file>
+        <file>32x32/actions/system-lock-screen.png</file>
+        <file>32x32/actions/system-log-out.png</file>
+        <file>32x32/actions/system-search.png</file>
+        <file>32x32/actions/system-shutdown.png</file>
+        <file>32x32/actions/tab-new.png</file>
+        <file>32x32/actions/view-fullscreen.png</file>
+        <file>32x32/actions/view-refresh.png</file>
+        <file>32x32/actions/window-new.png</file>
+        <file>32x32/animations/process-working.png</file>
+        <file>32x32/apps/accessories-calculator.png</file>
+        <file>32x32/apps/accessories-character-map.png</file>
+        <file>32x32/apps/accessories-text-editor.png</file>
+        <file>32x32/apps/help-browser.png</file>
+        <file>32x32/apps/internet-group-chat.png</file>
+        <file>32x32/apps/internet-mail.png</file>
+        <file>32x32/apps/internet-news-reader.png</file>
+        <file>32x32/apps/internet-web-browser.png</file>
+        <file>32x32/apps/office-calendar.png</file>
+        <file>32x32/apps/preferences-desktop-accessibility.png</file>
+        <file>32x32/apps/preferences-desktop-assistive-technology.png</file>
+        <file>32x32/apps/preferences-desktop-font.png</file>
+        <file>32x32/apps/preferences-desktop-keyboard-shortcuts.png</file>
+        <file>32x32/apps/preferences-desktop-locale.png</file>
+        <file>32x32/apps/preferences-desktop-multimedia.png</file>
+        <file>32x32/apps/preferences-desktop-remote-desktop.png</file>
+        <file>32x32/apps/preferences-desktop-screensaver.png</file>
+        <file>32x32/apps/preferences-desktop-theme.png</file>
+        <file>32x32/apps/preferences-desktop-wallpaper.png</file>
+        <file>32x32/apps/preferences-system-network-proxy.png</file>
+        <file>32x32/apps/preferences-system-session.png</file>
+        <file>32x32/apps/preferences-system-windows.png</file>
+        <file>32x32/apps/system-file-manager.png</file>
+        <file>32x32/apps/system-installer.png</file>
+        <file>32x32/apps/system-software-update.png</file>
+        <file>32x32/apps/system-users.png</file>
+        <file>32x32/apps/utilities-system-monitor.png</file>
+        <file>32x32/apps/utilities-terminal.png</file>
+        <file>32x32/categories/applications-accessories.png</file>
+        <file>32x32/categories/applications-development.png</file>
+        <file>32x32/categories/applications-games.png</file>
+        <file>32x32/categories/applications-graphics.png</file>
+        <file>32x32/categories/applications-internet.png</file>
+        <file>32x32/categories/applications-multimedia.png</file>
+        <file>32x32/categories/applications-office.png</file>
+        <file>32x32/categories/applications-other.png</file>
+        <file>32x32/categories/applications-system.png</file>
+        <file>32x32/categories/preferences-desktop-peripherals.png</file>
+        <file>32x32/categories/preferences-desktop.png</file>
+        <file>32x32/categories/preferences-system.png</file>
+        <file>32x32/devices/audio-card.png</file>
+        <file>32x32/devices/audio-input-microphone.png</file>
+        <file>32x32/devices/battery.png</file>
+        <file>32x32/devices/camera-photo.png</file>
+        <file>32x32/devices/camera-video.png</file>
+        <file>32x32/devices/computer.png</file>
+        <file>32x32/devices/drive-harddisk.png</file>
+        <file>32x32/devices/drive-optical.png</file>
+        <file>32x32/devices/drive-removable-media.png</file>
+        <file>32x32/devices/input-gaming.png</file>
+        <file>32x32/devices/input-keyboard.png</file>
+        <file>32x32/devices/input-mouse.png</file>
+        <file>32x32/devices/media-flash.png</file>
+        <file>32x32/devices/media-floppy.png</file>
+        <file>32x32/devices/media-optical.png</file>
+        <file>32x32/devices/multimedia-player.png</file>
+        <file>32x32/devices/network-wired.png</file>
+        <file>32x32/devices/network-wireless.png</file>
+        <file>32x32/devices/printer.png</file>
+        <file>32x32/devices/video-display.png</file>
+        <file>32x32/emblems/emblem-favorite.png</file>
+        <file>32x32/emblems/emblem-important.png</file>
+        <file>32x32/emblems/emblem-photos.png</file>
+        <file>32x32/emblems/emblem-readonly.png</file>
+        <file>32x32/emblems/emblem-symbolic-link.png</file>
+        <file>32x32/emblems/emblem-system.png</file>
+        <file>32x32/emblems/emblem-unreadable.png</file>
+        <file>32x32/emotes/face-angel.png</file>
+        <file>32x32/emotes/face-crying.png</file>
+        <file>32x32/emotes/face-devilish.png</file>
+        <file>32x32/emotes/face-glasses.png</file>
+        <file>32x32/emotes/face-grin.png</file>
+        <file>32x32/emotes/face-kiss.png</file>
+        <file>32x32/emotes/face-monkey.png</file>
+        <file>32x32/emotes/face-plain.png</file>
+        <file>32x32/emotes/face-sad.png</file>
+        <file>32x32/emotes/face-smile-big.png</file>
+        <file>32x32/emotes/face-smile.png</file>
+        <file>32x32/emotes/face-surprise.png</file>
+        <file>32x32/emotes/face-wink.png</file>
+        <file>32x32/mimetypes/application-certificate.png</file>
+        <file>32x32/mimetypes/application-x-executable.png</file>
+        <file>32x32/mimetypes/audio-x-generic.png</file>
+        <file>32x32/mimetypes/font-x-generic.png</file>
+        <file>32x32/mimetypes/image-x-generic.png</file>
+        <file>32x32/mimetypes/Makefile.am</file>
+        <file>32x32/mimetypes/Makefile.in</file>
+        <file>32x32/mimetypes/package-x-generic.png</file>
+        <file>32x32/mimetypes/text-html.png</file>
+        <file>32x32/mimetypes/text-x-generic-template.png</file>
+        <file>32x32/mimetypes/text-x-generic.png</file>
+        <file>32x32/mimetypes/text-x-script.png</file>
+        <file>32x32/mimetypes/video-x-generic.png</file>
+        <file>32x32/mimetypes/x-office-address-book.png</file>
+        <file>32x32/mimetypes/x-office-calendar.png</file>
+        <file>32x32/mimetypes/x-office-document-template.png</file>
+        <file>32x32/mimetypes/x-office-document.png</file>
+        <file>32x32/mimetypes/x-office-drawing-template.png</file>
+        <file>32x32/mimetypes/x-office-drawing.png</file>
+        <file>32x32/mimetypes/x-office-presentation-template.png</file>
+        <file>32x32/mimetypes/x-office-presentation.png</file>
+        <file>32x32/mimetypes/x-office-spreadsheet-template.png</file>
+        <file>32x32/mimetypes/x-office-spreadsheet.png</file>
+        <file>32x32/places/folder-remote.png</file>
+        <file>32x32/places/folder-saved-search.png</file>
+        <file>32x32/places/folder.png</file>
+        <file>32x32/places/network-server.png</file>
+        <file>32x32/places/network-workgroup.png</file>
+        <file>32x32/places/start-here.png</file>
+        <file>32x32/places/user-desktop.png</file>
+        <file>32x32/places/user-home.png</file>
+        <file>32x32/places/user-trash.png</file>
+        <file>32x32/status/audio-volume-high.png</file>
+        <file>32x32/status/audio-volume-low.png</file>
+        <file>32x32/status/audio-volume-medium.png</file>
+        <file>32x32/status/audio-volume-muted.png</file>
+        <file>32x32/status/battery-caution.png</file>
+        <file>32x32/status/dialog-error.png</file>
+        <file>32x32/status/dialog-information.png</file>
+        <file>32x32/status/dialog-warning.png</file>
+        <file>32x32/status/folder-drag-accept.png</file>
+        <file>32x32/status/folder-open.png</file>
+        <file>32x32/status/folder-visiting.png</file>
+        <file>32x32/status/image-loading.png</file>
+        <file>32x32/status/image-missing.png</file>
+        <file>32x32/status/mail-attachment.png</file>
+        <file>32x32/status/network-error.png</file>
+        <file>32x32/status/network-idle.png</file>
+        <file>32x32/status/network-offline.png</file>
+        <file>32x32/status/network-receive.png</file>
+        <file>32x32/status/network-transmit-receive.png</file>
+        <file>32x32/status/network-transmit.png</file>
+        <file>32x32/status/network-wireless-encrypted.png</file>
+        <file>32x32/status/printer-error.png</file>
+        <file>32x32/status/software-update-available.png</file>
+        <file>32x32/status/software-update-urgent.png</file>
+        <file>32x32/status/user-trash-full.png</file>
+        <file>32x32/status/weather-clear-night.png</file>
+        <file>32x32/status/weather-clear.png</file>
+        <file>32x32/status/weather-few-clouds-night.png</file>
+        <file>32x32/status/weather-few-clouds.png</file>
+        <file>32x32/status/weather-overcast.png</file>
+        <file>32x32/status/weather-severe-alert.png</file>
+        <file>32x32/status/weather-showers-scattered.png</file>
+        <file>32x32/status/weather-showers.png</file>
+        <file>32x32/status/weather-snow.png</file>
+        <file>32x32/status/weather-storm.png</file>
+        <file>index.theme</file>
+        <file alias="address-book-new">scalable/actions/address-book-new.svg</file>
+        <file alias="appointment-new">scalable/actions/appointment-new.svg</file>
+        <file alias="bookmark-new">scalable/actions/bookmark-new.svg</file>
+        <file alias="contact-new">scalable/actions/contact-new.svg</file>
+        <file alias="application-exit">scalable/actions/application-exit.svg</file>
+        <file alias="document-new">scalable/actions/document-new.svg</file>
+        <file alias="document-open">scalable/actions/document-open.svg</file>
+        <file alias="document-print-preview">scalable/actions/document-print-preview.svg</file>
+        <file alias="document-print">scalable/actions/document-print.svg</file>
+        <file alias="document-properties">scalable/actions/document-properties.svg</file>
+        <file alias="document-save-as">scalable/actions/document-save-as.svg</file>
+        <file alias="document-save">scalable/actions/document-save.svg</file>
+        <file alias="edit-clear">scalable/actions/edit-clear.svg</file>
+        <file alias="edit-copy">scalable/actions/edit-copy.svg</file>
+        <file alias="edit-cut">scalable/actions/edit-cut.svg</file>
+        <file alias="edit-delete">scalable/actions/edit-delete.svg</file>
+        <file alias="edit-find-replace">scalable/actions/edit-find-replace.svg</file>
+        <file alias="edit-find">scalable/actions/edit-find.svg</file>
+        <file alias="edit-paste">scalable/actions/edit-paste.svg</file>
+        <file alias="edit-redo">scalable/actions/edit-redo.svg</file>
+        <file alias="edit-select-all">scalable/actions/edit-select-all.svg</file>
+        <file alias="edit-undo">scalable/actions/edit-undo.svg</file>
+        <file alias="folder-new">scalable/actions/folder-new.svg</file>
+        <file alias="format-indent-less">scalable/actions/format-indent-less.svg</file>
+        <file alias="format-indent-more">scalable/actions/format-indent-more.svg</file>
+        <file alias="format-justify-center">scalable/actions/format-justify-center.svg</file>
+        <file alias="format-justify-fill">scalable/actions/format-justify-fill.svg</file>
+        <file alias="format-justify-left">scalable/actions/format-justify-left.svg</file>
+        <file alias="format-justify-right">scalable/actions/format-justify-right.svg</file>
+        <file alias="format-text-bold">scalable/actions/format-text-bold.svg</file>
+        <file alias="format-text-italic">scalable/actions/format-text-italic.svg</file>
+        <file alias="format-text-strikethrough">scalable/actions/format-text-strikethrough.svg</file>
+        <file alias="format-text-underline">scalable/actions/format-text-underline.svg</file>
+        <file alias="go-bottom">scalable/actions/go-bottom.svg</file>
+        <file alias="go-down">scalable/actions/go-down.svg</file>
+        <file alias="go-first">scalable/actions/go-first.svg</file>
+        <file alias="go-home">scalable/actions/go-home.svg</file>
+        <file alias="go-jump">scalable/actions/go-jump.svg</file>
+        <file alias="go-last">scalable/actions/go-last.svg</file>
+        <file alias="go-next">scalable/actions/go-next.svg</file>
+        <file alias="go-previous">scalable/actions/go-previous.svg</file>
+        <file alias="go-top">scalable/actions/go-top.svg</file>
+        <file alias="go-up">scalable/actions/go-up.svg</file>
+        <file alias="list-add">scalable/actions/list-add.svg</file>
+        <file alias="list-remove">scalable/actions/list-remove.svg</file>
+        <file alias="mail-forward">scalable/actions/mail-forward.svg</file>
+        <file alias="mail-mark-junk">scalable/actions/mail-mark-junk.svg</file>
+        <file alias="mail-message-new">scalable/actions/mail-message-new.svg</file>
+        <file alias="mail-reply-all">scalable/actions/mail-reply-all.svg</file>
+        <file alias="mail-reply-sender">scalable/actions/mail-reply-sender.svg</file>
+        <file alias="mail-send-receive">scalable/actions/mail-send-receive.svg</file>
+        <file alias="media-eject">scalable/actions/media-eject.svg</file>
+        <file alias="media-playback-pause">scalable/actions/media-playback-pause.svg</file>
+        <file alias="media-playback-start">scalable/actions/media-playback-start.svg</file>
+        <file alias="media-playback-stop">scalable/actions/media-playback-stop.svg</file>
+        <file alias="media-record">scalable/actions/media-record.svg</file>
+        <file alias="media-seek-backward">scalable/actions/media-seek-backward.svg</file>
+        <file alias="media-seek-forward">scalable/actions/media-seek-forward.svg</file>
+        <file alias="media-skip-backward">scalable/actions/media-skip-backward.svg</file>
+        <file alias="media-skip-forward">scalable/actions/media-skip-forward.svg</file>
+        <file alias="process-stop">scalable/actions/process-stop.svg</file>
+        <file alias="system-lock-screen">scalable/actions/system-lock-screen.svg</file>
+        <file alias="system-log-out">scalable/actions/system-log-out.svg</file>
+        <file alias="system-search">scalable/actions/system-search.svg</file>
+        <file alias="system-shutdown">scalable/actions/system-shutdown.svg</file>
+        <file alias="tab-new">scalable/actions/tab-new.svg</file>
+        <file alias="view-fullscreen">scalable/actions/view-fullscreen.svg</file>
+        <file alias="view-refresh">scalable/actions/view-refresh.svg</file>
+        <file alias="window-new">scalable/actions/window-new.svg</file>
+        <file alias="accessories-calculator">scalable/apps/accessories-calculator.svg</file>
+        <file alias="accessories-character-map">scalable/apps/accessories-character-map.svg</file>
+        <file alias="accessories-text-editor">scalable/apps/accessories-text-editor.svg</file>
+        <file alias="help-browser">scalable/apps/help-browser.svg</file>
+        <file alias="internet-group-chat">scalable/apps/internet-group-chat.svg</file>
+        <file alias="internet-mail">scalable/apps/internet-mail.svg</file>
+        <file alias="internet-news-reader">scalable/apps/internet-news-reader.svg</file>
+        <file alias="internet-web-browser">scalable/apps/internet-web-browser.svg</file>
+        <file alias="office-calendar">scalable/apps/office-calendar.svg</file>
+        <file alias="preferences-desktop-accessibility">scalable/apps/preferences-desktop-accessibility.svg</file>
+        <file alias="preferences-desktop-assistive-technology">scalable/apps/preferences-desktop-assistive-technology.svg</file>
+        <file alias="preferences-desktop-font">scalable/apps/preferences-desktop-font.svg</file>
+        <file alias="preferences-desktop-keyboard-shortcuts">scalable/apps/preferences-desktop-keyboard-shortcuts.svg</file>
+        <file alias="preferences-desktop-locale">scalable/apps/preferences-desktop-locale.svg</file>
+        <file alias="preferences-desktop-multimedia">scalable/apps/preferences-desktop-multimedia.svg</file>
+        <file alias="preferences-desktop-remote-desktop">scalable/apps/preferences-desktop-remote-desktop.svg</file>
+        <file alias="preferences-desktop-screensaver">scalable/apps/preferences-desktop-screensaver.svg</file>
+        <file alias="preferences-desktop-theme">scalable/apps/preferences-desktop-theme.svg</file>
+        <file alias="preferences-desktop-wallpaper">scalable/apps/preferences-desktop-wallpaper.svg</file>
+        <file alias="preferences-system-network-proxy">scalable/apps/preferences-system-network-proxy.svg</file>
+        <file alias="preferences-system-session">scalable/apps/preferences-system-session.svg</file>
+        <file alias="preferences-system-windows">scalable/apps/preferences-system-windows.svg</file>
+        <file alias="system-file-manager">scalable/apps/system-file-manager.svg</file>
+        <file alias="system-installer">scalable/apps/system-installer.svg</file>
+        <file alias="system-software-update">scalable/apps/system-software-update.svg</file>
+        <file alias="system-users">scalable/apps/system-users.svg</file>
+        <file alias="utilities-system-monitor">scalable/apps/utilities-system-monitor.svg</file>
+        <file alias="utilities-terminal">scalable/apps/utilities-terminal.svg</file>
+        <file alias="applications-accessories">scalable/categories/applications-accessories.svg</file>
+        <file alias="applications-development">scalable/categories/applications-development.svg</file>
+        <file alias="applications-games">scalable/categories/applications-games.svg</file>
+        <file alias="applications-graphics">scalable/categories/applications-graphics.svg</file>
+        <file alias="applications-internet">scalable/categories/applications-internet.svg</file>
+        <file alias="applications-multimedia">scalable/categories/applications-multimedia.svg</file>
+        <file alias="applications-office">scalable/categories/applications-office.svg</file>
+        <file alias="applications-other">scalable/categories/applications-other.svg</file>
+        <file alias="applications-system">scalable/categories/applications-system.svg</file>
+        <file alias="preferences-desktop-peripherals">scalable/categories/preferences-desktop-peripherals.svg</file>
+        <file alias="preferences-desktop">scalable/categories/preferences-desktop.svg</file>
+        <file alias="preferences-system">scalable/categories/preferences-system.svg</file>
+        <file alias="audio-card">scalable/devices/audio-card.svg</file>
+        <file alias="audio-input-microphone">scalable/devices/audio-input-microphone.svg</file>
+        <file alias="battery">scalable/devices/battery.svg</file>
+        <file alias="camera-photo">scalable/devices/camera-photo.svg</file>
+        <file alias="camera-video">scalable/devices/camera-video.svg</file>
+        <file alias="computer">scalable/devices/computer.svg</file>
+        <file alias="drive-harddisk">scalable/devices/drive-harddisk.svg</file>
+        <file alias="drive-optical">scalable/devices/drive-optical.svg</file>
+        <file alias="drive-removable-media">scalable/devices/drive-removable-media.svg</file>
+        <file alias="input-gaming">scalable/devices/input-gaming.svg</file>
+        <file alias="input-keyboard">scalable/devices/input-keyboard.svg</file>
+        <file alias="input-mouse">scalable/devices/input-mouse.svg</file>
+        <file alias="media-flash">scalable/devices/media-flash.svg</file>
+        <file alias="media-floppy">scalable/devices/media-floppy.svg</file>
+        <file alias="media-optical">scalable/devices/media-optical.svg</file>
+        <file alias="multimedia-player">scalable/devices/multimedia-player.svg</file>
+        <file alias="network-wired">scalable/devices/network-wired.svg</file>
+        <file alias="network-wireless">scalable/devices/network-wireless.svg</file>
+        <file alias="printer">scalable/devices/printer.svg</file>
+        <file alias="video-display">scalable/devices/video-display.svg</file>
+        <file alias="emblem-favorite">scalable/emblems/emblem-favorite.svg</file>
+        <file alias="emblem-important">scalable/emblems/emblem-important.svg</file>
+        <file alias="emblem-photos">scalable/emblems/emblem-photos.svg</file>
+        <file alias="emblem-readonly">scalable/emblems/emblem-readonly.svg</file>
+        <file alias="emblem-symbolic-link">scalable/emblems/emblem-symbolic-link.svg</file>
+        <file alias="emblem-system">scalable/emblems/emblem-system.svg</file>
+        <file alias="emblem-unreadable">scalable/emblems/emblem-unreadable.svg</file>
+        <file alias="face-angel">scalable/emotes/face-angel.svg</file>
+        <file alias="face-crying">scalable/emotes/face-crying.svg</file>
+        <file alias="face-devilish">scalable/emotes/face-devilish.svg</file>
+        <file alias="face-glasses">scalable/emotes/face-glasses.svg</file>
+        <file alias="face-grin">scalable/emotes/face-grin.svg</file>
+        <file alias="face-kiss">scalable/emotes/face-kiss.svg</file>
+        <file alias="face-monkey">scalable/emotes/face-monkey.svg</file>
+        <file alias="face-plain">scalable/emotes/face-plain.svg</file>
+        <file alias="face-sad">scalable/emotes/face-sad.svg</file>
+        <file alias="face-smile-big">scalable/emotes/face-smile-big.svg</file>
+        <file alias="face-smile">scalable/emotes/face-smile.svg</file>
+        <file alias="face-surprise">scalable/emotes/face-surprise.svg</file>
+        <file alias="face-wink">scalable/emotes/face-wink.svg</file>
+        <file alias="application-certificate">scalable/mimetypes/application-certificate.svg</file>
+        <file alias="application-x-executable">scalable/mimetypes/application-x-executable.svg</file>
+        <file alias="audio-x-generic">scalable/mimetypes/audio-x-generic.svg</file>
+        <file alias="font-x-generic">scalable/mimetypes/font-x-generic.svg</file>
+        <file alias="image-x-generic">scalable/mimetypes/image-x-generic.svg</file>
+        <file alias="package-x-generic">scalable/mimetypes/package-x-generic.svg</file>
+        <file alias="text-html">scalable/mimetypes/text-html.svg</file>
+        <file alias="text-x-generic-template">scalable/mimetypes/text-x-generic-template.svg</file>
+        <file alias="text-x-generic">scalable/mimetypes/text-x-generic.svg</file>
+        <file alias="text-x-script">scalable/mimetypes/text-x-script.svg</file>
+        <file alias="video-x-generic">scalable/mimetypes/video-x-generic.svg</file>
+        <file alias="x-office-address-book">scalable/mimetypes/x-office-address-book.svg</file>
+        <file alias="x-office-calendar">scalable/mimetypes/x-office-calendar.svg</file>
+        <file alias="x-office-document-template">scalable/mimetypes/x-office-document-template.svg</file>
+        <file alias="x-office-document">scalable/mimetypes/x-office-document.svg</file>
+        <file alias="x-office-drawing-template">scalable/mimetypes/x-office-drawing-template.svg</file>
+        <file alias="x-office-drawing">scalable/mimetypes/x-office-drawing.svg</file>
+        <file alias="x-office-presentation-template">scalable/mimetypes/x-office-presentation-template.svg</file>
+        <file alias="x-office-presentation">scalable/mimetypes/x-office-presentation.svg</file>
+        <file alias="x-office-spreadsheet-template">scalable/mimetypes/x-office-spreadsheet-template.svg</file>
+        <file alias="x-office-spreadsheet">scalable/mimetypes/x-office-spreadsheet.svg</file>
+        <file alias="folder-remote">scalable/places/folder-remote.svg</file>
+        <file alias="folder-saved-search">scalable/places/folder-saved-search.svg</file>
+        <file alias="folder.icon">scalable/places/folder.icon</file>
+        <file alias="folder">scalable/places/folder.svg</file>
+        <file alias="network-server">scalable/places/network-server.svg</file>
+        <file alias="network-workgroup">scalable/places/network-workgroup.svg</file>
+        <file alias="start-here">scalable/places/start-here.svg</file>
+        <file alias="user-desktop">scalable/places/user-desktop.svg</file>
+        <file alias="user-home">scalable/places/user-home.svg</file>
+        <file alias="user-trash">scalable/places/user-trash.svg</file>
+        <file alias="audio-volume-high">scalable/status/audio-volume-high.svg</file>
+        <file alias="audio-volume-low">scalable/status/audio-volume-low.svg</file>
+        <file alias="audio-volume-medium">scalable/status/audio-volume-medium.svg</file>
+        <file alias="audio-volume-muted">scalable/status/audio-volume-muted.svg</file>
+        <file alias="battery-caution">scalable/status/battery-caution.svg</file>
+        <file alias="dialog-error">scalable/status/dialog-error.svg</file>
+        <file alias="dialog-information">scalable/status/dialog-information.svg</file>
+        <file alias="dialog-warning">scalable/status/dialog-warning.svg</file>
+        <file alias="folder-drag-accept.icon">scalable/status/folder-drag-accept.icon</file>
+        <file alias="folder-drag-accept">scalable/status/folder-drag-accept.svg</file>
+        <file alias="folder-open">scalable/status/folder-open.svg</file>
+        <file alias="folder-visiting.icon">scalable/status/folder-visiting.icon</file>
+        <file alias="folder-visiting">scalable/status/folder-visiting.svg</file>
+        <file alias="image-loading">scalable/status/image-loading.svg</file>
+        <file alias="image-missing">scalable/status/image-missing.svg</file>
+        <file alias="mail-attachment">scalable/status/mail-attachment.svg</file>
+        <file alias="network-error">scalable/status/network-error.svg</file>
+        <file alias="network-idle">scalable/status/network-idle.svg</file>
+        <file alias="network-offline">scalable/status/network-offline.svg</file>
+        <file alias="network-receive">scalable/status/network-receive.svg</file>
+        <file alias="network-transmit-receive">scalable/status/network-transmit-receive.svg</file>
+        <file alias="network-transmit">scalable/status/network-transmit.svg</file>
+        <file alias="network-wireless-encrypted">scalable/status/network-wireless-encrypted.svg</file>
+        <file alias="printer-error">scalable/status/printer-error.svg</file>
+        <file alias="software-update-available">scalable/status/software-update-available.svg</file>
+        <file alias="software-update-urgent">scalable/status/software-update-urgent.svg</file>
+        <file alias="user-trash-full">scalable/status/user-trash-full.svg</file>
+        <file alias="weather-clear-night">scalable/status/weather-clear-night.svg</file>
+        <file alias="weather-clear">scalable/status/weather-clear.svg</file>
+        <file alias="weather-few-clouds-night">scalable/status/weather-few-clouds-night.svg</file>
+        <file alias="weather-few-clouds">scalable/status/weather-few-clouds.svg</file>
+        <file alias="weather-overcast">scalable/status/weather-overcast.svg</file>
+        <file alias="weather-severe-alert">scalable/status/weather-severe-alert.svg</file>
+        <file alias="weather-showers-scattered">scalable/status/weather-showers-scattered.svg</file>
+        <file alias="weather-showers">scalable/status/weather-showers.svg</file>
+        <file alias="weather-snow">scalable/status/weather-snow.svg</file>
+        <file alias="weather-storm">scalable/status/weather-storm.svg</file>
+        <file alias="flag-ad">scalable/intl/flag-ad.svg</file>
+        <file alias="flag-ae">scalable/intl/flag-ae.svg</file>
+        <file alias="flag-af">scalable/intl/flag-af.svg</file>
+        <file alias="flag-ag">scalable/intl/flag-ag.svg</file>
+        <file alias="flag-ai">scalable/intl/flag-ai.svg</file>
+        <file alias="flag-al">scalable/intl/flag-al.svg</file>
+        <file alias="flag-am">scalable/intl/flag-am.svg</file>
+        <file alias="flag-ao">scalable/intl/flag-ao.svg</file>
+        <file alias="flag-aq">scalable/intl/flag-aq.svg</file>
+        <file alias="flag-ar">scalable/intl/flag-ar.svg</file>
+        <file alias="flag-as">scalable/intl/flag-as.svg</file>
+        <file alias="flag-at">scalable/intl/flag-at.svg</file>
+        <file alias="flag-au">scalable/intl/flag-au.svg</file>
+        <file alias="flag-aw">scalable/intl/flag-aw.svg</file>
+        <file alias="flag-ax">scalable/intl/flag-ax.svg</file>
+        <file alias="flag-az">scalable/intl/flag-az.svg</file>
+        <file alias="flag-ba">scalable/intl/flag-ba.svg</file>
+        <file alias="flag-bb">scalable/intl/flag-bb.svg</file>
+        <file alias="flag-bd">scalable/intl/flag-bd.svg</file>
+        <file alias="flag-be">scalable/intl/flag-be.svg</file>
+        <file alias="flag-bf">scalable/intl/flag-bf.svg</file>
+        <file alias="flag-bg">scalable/intl/flag-bg.svg</file>
+        <file alias="flag-bh">scalable/intl/flag-bh.svg</file>
+        <file alias="flag-bi">scalable/intl/flag-bi.svg</file>
+        <file alias="flag-bj">scalable/intl/flag-bj.svg</file>
+        <file alias="flag-bl">scalable/intl/flag-bl.svg</file>
+        <file alias="flag-bm">scalable/intl/flag-bm.svg</file>
+        <file alias="flag-bn">scalable/intl/flag-bn.svg</file>
+        <file alias="flag-bo">scalable/intl/flag-bo.svg</file>
+        <file alias="flag-bq">scalable/intl/flag-bq.svg</file>
+        <file alias="flag-br">scalable/intl/flag-br.svg</file>
+        <file alias="flag-bs">scalable/intl/flag-bs.svg</file>
+        <file alias="flag-bt">scalable/intl/flag-bt.svg</file>
+        <file alias="flag-bv">scalable/intl/flag-bv.svg</file>
+        <file alias="flag-bw">scalable/intl/flag-bw.svg</file>
+        <file alias="flag-by">scalable/intl/flag-by.svg</file>
+        <file alias="flag-bz">scalable/intl/flag-bz.svg</file>
+        <file alias="flag-ca">scalable/intl/flag-ca.svg</file>
+        <file alias="flag-cc">scalable/intl/flag-cc.svg</file>
+        <file alias="flag-cd">scalable/intl/flag-cd.svg</file>
+        <file alias="flag-cf">scalable/intl/flag-cf.svg</file>
+        <file alias="flag-cg">scalable/intl/flag-cg.svg</file>
+        <file alias="flag-ch">scalable/intl/flag-ch.svg</file>
+        <file alias="flag-ci">scalable/intl/flag-ci.svg</file>
+        <file alias="flag-ck">scalable/intl/flag-ck.svg</file>
+        <file alias="flag-cl">scalable/intl/flag-cl.svg</file>
+        <file alias="flag-cm">scalable/intl/flag-cm.svg</file>
+        <file alias="flag-cn">scalable/intl/flag-cn.svg</file>
+        <file alias="flag-co">scalable/intl/flag-co.svg</file>
+        <file alias="flag-cr">scalable/intl/flag-cr.svg</file>
+        <file alias="flag-cu">scalable/intl/flag-cu.svg</file>
+        <file alias="flag-cv">scalable/intl/flag-cv.svg</file>
+        <file alias="flag-cw">scalable/intl/flag-cw.svg</file>
+        <file alias="flag-cx">scalable/intl/flag-cx.svg</file>
+        <file alias="flag-cy">scalable/intl/flag-cy.svg</file>
+        <file alias="flag-cz">scalable/intl/flag-cz.svg</file>
+        <file alias="flag-de">scalable/intl/flag-de.svg</file>
+        <file alias="flag-dj">scalable/intl/flag-dj.svg</file>
+        <file alias="flag-dk">scalable/intl/flag-dk.svg</file>
+        <file alias="flag-dm">scalable/intl/flag-dm.svg</file>
+        <file alias="flag-do">scalable/intl/flag-do.svg</file>
+        <file alias="flag-dz">scalable/intl/flag-dz.svg</file>
+        <file alias="flag-ec">scalable/intl/flag-ec.svg</file>
+        <file alias="flag-ee">scalable/intl/flag-ee.svg</file>
+        <file alias="flag-eg">scalable/intl/flag-eg.svg</file>
+        <file alias="flag-eh">scalable/intl/flag-eh.svg</file>
+        <file alias="flag-er">scalable/intl/flag-er.svg</file>
+        <file alias="flag-es">scalable/intl/flag-es.svg</file>
+        <file alias="flag-et">scalable/intl/flag-et.svg</file>
+        <file alias="flag-fi">scalable/intl/flag-fi.svg</file>
+        <file alias="flag-fj">scalable/intl/flag-fj.svg</file>
+        <file alias="flag-fk">scalable/intl/flag-fk.svg</file>
+        <file alias="flag-fm">scalable/intl/flag-fm.svg</file>
+        <file alias="flag-fo">scalable/intl/flag-fo.svg</file>
+        <file alias="flag-fr">scalable/intl/flag-fr.svg</file>
+        <file alias="flag-ga">scalable/intl/flag-ga.svg</file>
+        <file alias="flag-gb">scalable/intl/flag-gb.svg</file>
+        <file alias="flag-gd">scalable/intl/flag-gd.svg</file>
+        <file alias="flag-ge">scalable/intl/flag-ge.svg</file>
+        <file alias="flag-gf">scalable/intl/flag-gf.svg</file>
+        <file alias="flag-gg">scalable/intl/flag-gg.svg</file>
+        <file alias="flag-gh">scalable/intl/flag-gh.svg</file>
+        <file alias="flag-gi">scalable/intl/flag-gi.svg</file>
+        <file alias="flag-gl">scalable/intl/flag-gl.svg</file>
+        <file alias="flag-gm">scalable/intl/flag-gm.svg</file>
+        <file alias="flag-gn">scalable/intl/flag-gn.svg</file>
+        <file alias="flag-gp">scalable/intl/flag-gp.svg</file>
+        <file alias="flag-gq">scalable/intl/flag-gq.svg</file>
+        <file alias="flag-gr">scalable/intl/flag-gr.svg</file>
+        <file alias="flag-gs">scalable/intl/flag-gs.svg</file>
+        <file alias="flag-gt">scalable/intl/flag-gt.svg</file>
+        <file alias="flag-gu">scalable/intl/flag-gu.svg</file>
+        <file alias="flag-gw">scalable/intl/flag-gw.svg</file>
+        <file alias="flag-gy">scalable/intl/flag-gy.svg</file>
+        <file alias="flag-hk">scalable/intl/flag-hk.svg</file>
+        <file alias="flag-hm">scalable/intl/flag-hm.svg</file>
+        <file alias="flag-hn">scalable/intl/flag-hn.svg</file>
+        <file alias="flag-hr">scalable/intl/flag-hr.svg</file>
+        <file alias="flag-ht">scalable/intl/flag-ht.svg</file>
+        <file alias="flag-hu">scalable/intl/flag-hu.svg</file>
+        <file alias="flag-id">scalable/intl/flag-id.svg</file>
+        <file alias="flag-ie">scalable/intl/flag-ie.svg</file>
+        <file alias="flag-il">scalable/intl/flag-il.svg</file>
+        <file alias="flag-im">scalable/intl/flag-im.svg</file>
+        <file alias="flag-in">scalable/intl/flag-in.svg</file>
+        <file alias="flag-io">scalable/intl/flag-io.svg</file>
+        <file alias="flag-iq">scalable/intl/flag-iq.svg</file>
+        <file alias="flag-ir">scalable/intl/flag-ir.svg</file>
+        <file alias="flag-is">scalable/intl/flag-is.svg</file>
+        <file alias="flag-it">scalable/intl/flag-it.svg</file>
+        <file alias="flag-je">scalable/intl/flag-je.svg</file>
+        <file alias="flag-jm">scalable/intl/flag-jm.svg</file>
+        <file alias="flag-jo">scalable/intl/flag-jo.svg</file>
+        <file alias="flag-jp">scalable/intl/flag-jp.svg</file>
+        <file alias="flag-ke">scalable/intl/flag-ke.svg</file>
+        <file alias="flag-kg">scalable/intl/flag-kg.svg</file>
+        <file alias="flag-kh">scalable/intl/flag-kh.svg</file>
+        <file alias="flag-ki">scalable/intl/flag-ki.svg</file>
+        <file alias="flag-km">scalable/intl/flag-km.svg</file>
+        <file alias="flag-kn">scalable/intl/flag-kn.svg</file>
+        <file alias="flag-kp">scalable/intl/flag-kp.svg</file>
+        <file alias="flag-kr">scalable/intl/flag-kr.svg</file>
+        <file alias="flag-kw">scalable/intl/flag-kw.svg</file>
+        <file alias="flag-ky">scalable/intl/flag-ky.svg</file>
+        <file alias="flag-kz">scalable/intl/flag-kz.svg</file>
+        <file alias="flag-la">scalable/intl/flag-la.svg</file>
+        <file alias="flag-lb">scalable/intl/flag-lb.svg</file>
+        <file alias="flag-lc">scalable/intl/flag-lc.svg</file>
+        <file alias="flag-li">scalable/intl/flag-li.svg</file>
+        <file alias="flag-lk">scalable/intl/flag-lk.svg</file>
+        <file alias="flag-lr">scalable/intl/flag-lr.svg</file>
+        <file alias="flag-ls">scalable/intl/flag-ls.svg</file>
+        <file alias="flag-lt">scalable/intl/flag-lt.svg</file>
+        <file alias="flag-lu">scalable/intl/flag-lu.svg</file>
+        <file alias="flag-lv">scalable/intl/flag-lv.svg</file>
+        <file alias="flag-ly">scalable/intl/flag-ly.svg</file>
+        <file alias="flag-ma">scalable/intl/flag-ma.svg</file>
+        <file alias="flag-mc">scalable/intl/flag-mc.svg</file>
+        <file alias="flag-md">scalable/intl/flag-md.svg</file>
+        <file alias="flag-me">scalable/intl/flag-me.svg</file>
+        <file alias="flag-mf">scalable/intl/flag-mf.svg</file>
+        <file alias="flag-mg">scalable/intl/flag-mg.svg</file>
+        <file alias="flag-mh">scalable/intl/flag-mh.svg</file>
+        <file alias="flag-mk">scalable/intl/flag-mk.svg</file>
+        <file alias="flag-ml">scalable/intl/flag-ml.svg</file>
+        <file alias="flag-mm">scalable/intl/flag-mm.svg</file>
+        <file alias="flag-mn">scalable/intl/flag-mn.svg</file>
+        <file alias="flag-mo">scalable/intl/flag-mo.svg</file>
+        <file alias="flag-mp">scalable/intl/flag-mp.svg</file>
+        <file alias="flag-mq">scalable/intl/flag-mq.svg</file>
+        <file alias="flag-mr">scalable/intl/flag-mr.svg</file>
+        <file alias="flag-ms">scalable/intl/flag-ms.svg</file>
+        <file alias="flag-mt">scalable/intl/flag-mt.svg</file>
+        <file alias="flag-mu">scalable/intl/flag-mu.svg</file>
+        <file alias="flag-mv">scalable/intl/flag-mv.svg</file>
+        <file alias="flag-mw">scalable/intl/flag-mw.svg</file>
+        <file alias="flag-mx">scalable/intl/flag-mx.svg</file>
+        <file alias="flag-my">scalable/intl/flag-my.svg</file>
+        <file alias="flag-mz">scalable/intl/flag-mz.svg</file>
+        <file alias="flag-na">scalable/intl/flag-na.svg</file>
+        <file alias="flag-nc">scalable/intl/flag-nc.svg</file>
+        <file alias="flag-ne">scalable/intl/flag-ne.svg</file>
+        <file alias="flag-nf">scalable/intl/flag-nf.svg</file>
+        <file alias="flag-ng">scalable/intl/flag-ng.svg</file>
+        <file alias="flag-ni">scalable/intl/flag-ni.svg</file>
+        <file alias="flag-nl">scalable/intl/flag-nl.svg</file>
+        <file alias="flag-no">scalable/intl/flag-no.svg</file>
+        <file alias="flag-np">scalable/intl/flag-np.svg</file>
+        <file alias="flag-nr">scalable/intl/flag-nr.svg</file>
+        <file alias="flag-nu">scalable/intl/flag-nu.svg</file>
+        <file alias="flag-nz">scalable/intl/flag-nz.svg</file>
+        <file alias="flag-om">scalable/intl/flag-om.svg</file>
+        <file alias="flag-pa">scalable/intl/flag-pa.svg</file>
+        <file alias="flag-pe">scalable/intl/flag-pe.svg</file>
+        <file alias="flag-pf">scalable/intl/flag-pf.svg</file>
+        <file alias="flag-pg">scalable/intl/flag-pg.svg</file>
+        <file alias="flag-ph">scalable/intl/flag-ph.svg</file>
+        <file alias="flag-pk">scalable/intl/flag-pk.svg</file>
+        <file alias="flag-pl">scalable/intl/flag-pl.svg</file>
+        <file alias="flag-pm">scalable/intl/flag-pm.svg</file>
+        <file alias="flag-pn">scalable/intl/flag-pn.svg</file>
+        <file alias="flag-pr">scalable/intl/flag-pr.svg</file>
+        <file alias="flag-ps">scalable/intl/flag-ps.svg</file>
+        <file alias="flag-pt">scalable/intl/flag-pt.svg</file>
+        <file alias="flag-pw">scalable/intl/flag-pw.svg</file>
+        <file alias="flag-py">scalable/intl/flag-py.svg</file>
+        <file alias="flag-qa">scalable/intl/flag-qa.svg</file>
+        <file alias="flag-re">scalable/intl/flag-re.svg</file>
+        <file alias="flag-ro">scalable/intl/flag-ro.svg</file>
+        <file alias="flag-rs">scalable/intl/flag-rs.svg</file>
+        <file alias="flag-ru">scalable/intl/flag-ru.svg</file>
+        <file alias="flag-rw">scalable/intl/flag-rw.svg</file>
+        <file alias="flag-sa">scalable/intl/flag-sa.svg</file>
+        <file alias="flag-sb">scalable/intl/flag-sb.svg</file>
+        <file alias="flag-sc">scalable/intl/flag-sc.svg</file>
+        <file alias="flag-sd">scalable/intl/flag-sd.svg</file>
+        <file alias="flag-se">scalable/intl/flag-se.svg</file>
+        <file alias="flag-sg">scalable/intl/flag-sg.svg</file>
+        <file alias="flag-sh">scalable/intl/flag-sh.svg</file>
+        <file alias="flag-si">scalable/intl/flag-si.svg</file>
+        <file alias="flag-sj">scalable/intl/flag-sj.svg</file>
+        <file alias="flag-sk">scalable/intl/flag-sk.svg</file>
+        <file alias="flag-sl">scalable/intl/flag-sl.svg</file>
+        <file alias="flag-sm">scalable/intl/flag-sm.svg</file>
+        <file alias="flag-sn">scalable/intl/flag-sn.svg</file>
+        <file alias="flag-so">scalable/intl/flag-so.svg</file>
+        <file alias="flag-sr">scalable/intl/flag-sr.svg</file>
+        <file alias="flag-ss">scalable/intl/flag-ss.svg</file>
+        <file alias="flag-st">scalable/intl/flag-st.svg</file>
+        <file alias="flag-sv">scalable/intl/flag-sv.svg</file>
+        <file alias="flag-sx">scalable/intl/flag-sx.svg</file>
+        <file alias="flag-sy">scalable/intl/flag-sy.svg</file>
+        <file alias="flag-sz">scalable/intl/flag-sz.svg</file>
+        <file alias="flag-tc">scalable/intl/flag-tc.svg</file>
+        <file alias="flag-td">scalable/intl/flag-td.svg</file>
+        <file alias="flag-tf">scalable/intl/flag-tf.svg</file>
+        <file alias="flag-tg">scalable/intl/flag-tg.svg</file>
+        <file alias="flag-th">scalable/intl/flag-th.svg</file>
+        <file alias="flag-tj">scalable/intl/flag-tj.svg</file>
+        <file alias="flag-tk">scalable/intl/flag-tk.svg</file>
+        <file alias="flag-tl">scalable/intl/flag-tl.svg</file>
+        <file alias="flag-tm">scalable/intl/flag-tm.svg</file>
+        <file alias="flag-tn">scalable/intl/flag-tn.svg</file>
+        <file alias="flag-to">scalable/intl/flag-to.svg</file>
+        <file alias="flag-tr">scalable/intl/flag-tr.svg</file>
+        <file alias="flag-tt">scalable/intl/flag-tt.svg</file>
+        <file alias="flag-tv">scalable/intl/flag-tv.svg</file>
+        <file alias="flag-tw">scalable/intl/flag-tw.svg</file>
+        <file alias="flag-tz">scalable/intl/flag-tz.svg</file>
+        <file alias="flag-ua">scalable/intl/flag-ua.svg</file>
+        <file alias="flag-ug">scalable/intl/flag-ug.svg</file>
+        <file alias="flag-um">scalable/intl/flag-um.svg</file>
+        <file alias="flag-us">scalable/intl/flag-us.svg</file>
+        <file alias="flag-uy">scalable/intl/flag-uy.svg</file>
+        <file alias="flag-uz">scalable/intl/flag-uz.svg</file>
+        <file alias="flag-va">scalable/intl/flag-va.svg</file>
+        <file alias="flag-vc">scalable/intl/flag-vc.svg</file>
+        <file alias="flag-ve">scalable/intl/flag-ve.svg</file>
+        <file alias="flag-vg">scalable/intl/flag-vg.svg</file>
+        <file alias="flag-vi">scalable/intl/flag-vi.svg</file>
+        <file alias="flag-vn">scalable/intl/flag-vn.svg</file>
+        <file alias="flag-vu">scalable/intl/flag-vu.svg</file>
+        <file alias="flag-wf">scalable/intl/flag-wf.svg</file>
+        <file alias="flag-ws">scalable/intl/flag-ws.svg</file>
+        <file alias="flag-ye">scalable/intl/flag-ye.svg</file>
+        <file alias="flag-yt">scalable/intl/flag-yt.svg</file>
+        <file alias="flag-za">scalable/intl/flag-za.svg</file>
+        <file alias="flag-zm">scalable/intl/flag-zm.svg</file>
+        <file alias="flag-zw">scalable/intl/flag-zw.svg</file>
+        <file alias="pqSplitViewH12">16x16/actions/pqSplitViewH12.png</file>
+        <file alias="pqSplitViewV12">16x16/actions/pqSplitViewV12.png</file>
+    </qresource>
+</RCC>
