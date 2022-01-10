@@ -1,16 +1,17 @@
-project(tango)
+cmake_minimum_required(VERSION 3.16)
+project(tango-icon-theme)
 
 
-find_package(Qt5 REQUIRED COMPONENTS Core)
+find_package(Qt6 REQUIRED COMPONENTS Core)
 
 SET(CMAKE_AUTORCC OFF)
 
-qt5_add_resources(out tango.qrc )
+qt6_add_resources(out tango.qrc )
 
 
 
 add_library(tango ${out})
-target_link_libraries(tango  Qt5::Core )
+target_link_libraries(tango  Qt6::Core )
 
 
 install(TARGETS tango
