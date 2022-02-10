@@ -9,8 +9,12 @@ SET(CMAKE_AUTORCC OFF)
 qt6_add_resources(out tango.qrc )
 
 
+if (WIN32)
+    add_library(tango ${out} tango-icon-schemeW32.cpp)
+else()
+    add_library(tango ${out})
+endif()
 
-add_library(tango ${out})
 target_link_libraries(tango  Qt6::Core )
 
 
