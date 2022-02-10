@@ -10,16 +10,16 @@ qt6_add_resources(out tango.qrc )
 
 
 if (WIN32)
-    add_library(tango ${out} tango-icon-schemeW32.cpp)
+    add_library(tango-icon-theme ${out} tango-icon-schemeW32.cpp)
 else()
-    add_library(tango ${out})
+    add_library(tango-icon-theme ${out})
 endif()
 
-target_link_libraries(tango  Qt6::Core )
+target_link_libraries(tango-icon-theme  Qt6::Core )
 
 
-install(TARGETS tango
-EXPORT tango
+install(TARGETS tango-icon-theme
+EXPORT tango-icon-theme
 RUNTIME DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" COMPONENT bin
 LIBRARY DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" COMPONENT shlib
 ARCHIVE DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" COMPONENT lib
